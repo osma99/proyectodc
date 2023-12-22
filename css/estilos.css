@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f0f0; /* Color de fondo de la página */
+    background-image: url(/media/encri.jpg)
+  }
+  
+  h1 {
+    font-size: 350%;
+    color: rgb(232, 232, 235);
+    background-color: #181717 ;
+  }
+  .main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(238, 238, 243);
+  }
+  
+  
+  .box {
+    width: 90%; /* Ancho de las cajas principales */
+    max-width: 600px; /* Ancho máximo de las cajas principales */
+    background-color: #1b1a1a; /* Color de fondo de las cajas principales */
+    padding: 20px; /* Espaciado interno de las cajas principales */
+    border-radius: 10px; /* Bordes redondeados de las cajas principales */
+    box-shadow: 0 0 10px rgba(36, 34, 34, 0.1); /* Sombra de las cajas principales */
+    margin-bottom: 20px; /* Margen inferior para separar las cajas */
+    color: white;
+  }
+  
+  .titulo {
+    text-align: center;
+  }
+  
+  .form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .text-input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+  }
+  
+  .btn {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  .msg h2 {
+    text-align: center;
+  }
+  
+  .text-input-salida {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+  }
+  
+  #btn-copy {
+    background-color: #2ecc71;
+  }
+  
+  /* Agrega más estilos según tus necesidades */

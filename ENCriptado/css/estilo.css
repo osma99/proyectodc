@@ -1,0 +1,33 @@
+body {
+    margin: 0px; ;
+    padding: 0px; ;
+    background-image:url(/ENCriptado/media/Prototipo\ de\ ordenador\ web\ tecnológica\ moderna\ negro\ y\ amarillo\ \(1\).png) ;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.container{
+    background-image: url(/ENCriptado/media/aesthetic-mountain-synthwave-retrowave-wallpaper-with-a-cool-and-vibrant-neon-design-ai-generated-photo.jpg);
+    width: 250px;
+    height: 100px;
+    border: 1px solid black;
+    padding: 50px;
+    margin: 100px;}
+    
+.caja{
+    background-image: url(/ENCriptado/media/aesthetic-mountain-synthwave-retrowave-wallpaper-with-a-cool-and-vibrant-neon-design-ai-generated-photo.jpg);
+    width: 250px;
+    height: 100px;
+    border: 1px solid black;
+    padding: 50px;
+    margin: 100px;}
+
+.contenedor{
+    background-image: url(/ENCriptado/media/aesthetic-mountain-synthwave-retrowave-wallpaper-with-a-cool-and-vibrant-neon-design-ai-generated-photo.jpg);
+    width: 250px;
+    height: 100px;
+    border: 1px solid black;
+    padding: 50px;
+    margin: 100px;}
+
+    

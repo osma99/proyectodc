@@ -1,0 +1,14 @@
+.container{
+    background-image: url(/PRO/media/e27dd8f8a51c075003cfb4f9004a01ef.jpg);
+    width: 500px;
+    height: 200px;
+    border: 1px solid black;
+    padding: 50px;
+    margin: 350px;
+}
+      
+
+
+body{
+    background: url(/PRO/media/42c2221a9086be1965e300d7cbc9d0a6.jpg);
+}
